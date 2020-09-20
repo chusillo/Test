@@ -1,0 +1,19 @@
+{
+	"name": "Test",
+	"title": "Testing",
+	"description": "Una prueba",
+	"version": "0.0.1",
+	"minimumCoreVersion" : "0.6.6",
+	"compatibleCoreVersion" : "0.6.6",
+	"author": "Jesus",
+	"esmodules": [
+		"./Test.js"
+	],
+	"scripts": [
+		"./Test.js"
+	],
+	"socket": true,
+	"url": "https://bitbucket.org/dm-mix/switch-to-chat/",
+	"manifest": "https://bitbucket.org/dm-mix/switch-to-chat/raw/master/module.json",
+	"download": "https://bitbucket.org/dm-mix/switch-to-chat/downloads/switch-to-chatV0.1.1.zip"
+}
