@@ -13,7 +13,6 @@
 		"./Test.js"
 	],
 	"socket": true,
-	"url": "https://bitbucket.org/dm-mix/switch-to-chat/",
-	"manifest": "https://bitbucket.org/dm-mix/switch-to-chat/raw/master/module.json",
-	"download": "https://bitbucket.org/dm-mix/switch-to-chat/downloads/switch-to-chatV0.1.1.zip"
+	"manifest": "https://raw.githubusercontent.com/chusillo/Test/master/module.json",
+	"download": "https://github.com/chusillo/Test/raw/master/Mio.zip"
 }
